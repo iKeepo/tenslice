@@ -21,4 +21,8 @@ Knowledge is power is the most misleading concept in current era.
 Don't care about knowledge, just focus your problem.
 Don't think about knowledge, think about problem.
 
+4. education vs training
+Just like point 3, problem is better than knowledge, training is much useful than education.
+Training is about how to do thing, how to solve problem, education is about knowledge, about what is it.
+
  
