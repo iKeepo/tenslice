@@ -16,6 +16,9 @@ It's a common phenomenon that we are too busy to do something besides daily work
 But in the tenslice mode, we can do what we want to do in the next 10 minutes, because we have enough slice to do anything we want.
 And acctually, the thing we want to do is usually don't behavior at our first glip, so the earlier we begin, the better we get feedback.
 
-
+3. focus on problem, rather knowledge
+Knowledge is power is the most misleading concept in current era.
+Don't care about knowledge, just focus your problem.
+Don't think about knowledge, think about problem.
 
  
