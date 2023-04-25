@@ -20,9 +20,17 @@ And acctually, the thing we want to do is usually don't behavior at our first gl
 Knowledge is power is the most misleading concept in current era.
 Don't care about knowledge, just focus your problem.
 Don't think about knowledge, think about problem.
+User value comes from solving problem, rather initial creation.
 
 4. education vs training
 Just like point 3, problem is better than knowledge, training is much useful than education.
 Training is about how to do thing, how to solve problem, education is about knowledge, about what is it.
 
- 
+5. only frame of new knowledge should be collectted at first time
+The big picture of new displine is necessary when first meet. Other details should be acquired through solving problem.
+
+6. concentration lead speed, speed change things
+Concentration is not just mean mind focus, it's about all sense organs, narrow the input into just what need.
+
+7. every nine slices find one introspection slice
+Like the light tracer among bullets, which serves as data valadation.
