@@ -34,3 +34,8 @@ Concentration is not just mean mind focus, it's about all sense organs, narrow t
 
 7. every nine slices find one introspection slice
 Like the light tracer among bullets, which serves as data valadation.
+
+8. get new solution for new problems in new area every new day
+The solution only come from more investment, so invest in the new area.
+
+
